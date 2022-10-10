@@ -1,10 +1,8 @@
-<img src='https://i.pinimg.com/736x/e4/64/0b/e4640b30d880bb8768a47070d10a9d59.jpg' height='25px' width='100%'/>
 <div id='header' align='center' display='in-line'>
   <img src='https://media.tenor.com/wuariwEtBXUAAAAM/tiny-green-frog-teeny-tiny-green-frog.gif' height='200px'/>
-  
 </div>
 <div float='left' align='middle'>
-<h1>Hello there👋 <br>I'm Charmaine Aguilar</h1>
+<h1>Hellooo👋 <br>I'm Charmaine Aguilar</h1>
 </div>
 
 <div id='badges' align='center'>
@@ -13,6 +11,7 @@
   <a href='https://www.linkedin.com/in/charmaine-aguilar/'><img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge'/></a>
 </div>
 
+<br><br>
 <h3>:frog: About me </h3>
 
 - 👀 I’m interested in frontend development and video games
@@ -30,20 +29,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 </div>
 
+<br><br>
 <div id='support' align='center'>
   <h3>✨ If you like what I do ✨</h3>
   <a href='https://ko-fi.com/P5P123964' target='_blank'><img height='50' style='border:0px;height:50px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>
-  
 </div>
 <div align='center'>
   <img src='https://media.giphy.com/media/GDgMPz4vvgFEzaXJdu/giphy.gif' height='200px'/>
 </div>
-
-<img src='https://i.pinimg.com/736x/e4/64/0b/e4640b30d880bb8768a47070d10a9d59.jpg' height='25px' width='100%'/>
-
-
-
-
 <!---
 charmaine-aguilar/charmaine-aguilar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
