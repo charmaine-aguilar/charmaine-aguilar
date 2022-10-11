@@ -26,7 +26,7 @@
   <img src='https://64.media.tumblr.com/6ac21c63ee63d37c478a70a8fb15c6be/902ea438165ea7ab-e9/s540x810/88fb2d9958a9416d93212f7b5f24388a171d82e5.gifv' height='16px'/>
   
   <h3>Interests</h3>
-  <p>Front end development, Game development, Video games</p>
+  <p>Front end development, Game development, Video games, FROGGOS</p>
 </div>
 
 ---
