@@ -12,12 +12,24 @@
 
 <div id='toolkit-icons' align='center'>
 <h3>Languages and tools </h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  
+  <img src="https://img.shields.io/badge/Java-brightgreen?style=?style=flat-square">
+  <img src="https://img.shields.io/badge/Python-brightgreen?style=?style=flat-square">
+  <img src="https://img.shields.io/badge/JavaScript ES6-brightgreen?style=?style=flat-square">
+  <img src="https://img.shields.io/badge/HTML-brightgreen?style=?style=flat-square">
+  <img src="https://img.shields.io/badge/CSS-brightgreen?style=?style=flat-square">
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/MongoDB-orange?style=?style=flat-square">
+  <img src="https://img.shields.io/badge/Express.JS-orange?style=?style=flat-square">
+  <img src="https://img.shields.io/badge/Node.JS-orange?style=?style=flat-square">
+  <img src="https://img.shields.io/badge/Bootstrap-orange?style=?style=flat-square">
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/Git-blue?style=?style=flat-square">
+
 </div>
 <br>
 <div align='center'>
