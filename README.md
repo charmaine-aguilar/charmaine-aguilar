@@ -3,7 +3,7 @@
 </div>
 
 <div id='badges' align='center'>
-  <h3><strong>Wanna have a chat? Let's connect!</strong></h3>
+  <h3><strong>Wanna chat? Let's connect!</strong></h3>
   <a href='https://twitter.com/pokopong3'><img src='https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge'/></a>
   <a href='https://www.linkedin.com/in/charmaine-aguilar/'><img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge'/></a>
 </div>
