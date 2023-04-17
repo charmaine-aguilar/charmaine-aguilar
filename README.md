@@ -23,6 +23,7 @@
   
   <img src="https://img.shields.io/badge/MongoDB-orange?style=?style=flat-square">
   <img src="https://img.shields.io/badge/Express.JS-orange?style=?style=flat-square">
+  <img src="https://img.shields.io/badge/React.JS-orange?style=?style=flat-square">
   <img src="https://img.shields.io/badge/Node.JS-orange?style=?style=flat-square">
   <img src="https://img.shields.io/badge/Bootstrap-orange?style=?style=flat-square">
   
